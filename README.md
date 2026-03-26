@@ -83,7 +83,7 @@ This project addresses the following business questions:
 
 ## 🔄 Project Workflow
 
-![HR Analytics Project Flow](dashboard/hr_analytics_dashboard.png)
+![HR Analytics Project Flow](images/hr_analytics_project_flow.jpg)
 
 ### Step 1 — Data Ingestion (Python)
 - Loaded the raw CSV dataset using `pandas`
@@ -127,6 +127,16 @@ Ran 10 structured SQL scripts covering:
 ```
 hr-analytics/
 │
+├── 📂 images/
+│   ├── hr_analytics_data_model.jpg       # Data Model Image
+│   ├── hr_analytics_project_flow.jpg     # Project Flow Image
+│
+├── 📂 powerbi/
+│   └──📂 images-used-in-dashboard/
+│       └── 5 images
+│   ├── hr_analytics_dashboard.png        # Dashboard Image
+│   ├── hr_analytics_table                # Detailed table
+│
 ├── 📂 python/
 │   └── hr_python_notebook.ipynb          # Full Python data pipeline
 │
@@ -143,10 +153,6 @@ hr-analytics/
 │   ├── 09_data_segmentation.sql          # Cross-dimensional segment analysis
 │   └── 10_part_to_whole_analysis.sql     # Percentage share by category
 │
-├── 📂 dashboard/
-│   ├── hr_analytics_dashboard.png        # Dashboard view screenshot
-│   └── hr_analytics_table.png           # Table view screenshot
-│
 ├── 📂 design/
 │   ├── hr_analytics_project_flow.drawio  # End-to-end project workflow diagram
 │   └── Planned_data_model.drawio        # Data model / schema diagram
@@ -161,7 +167,7 @@ hr-analytics/
 The Power BI dashboard has two views:
 
 ### Dashboard View
-![HR Analytics Dashboard](dashboard/hr_analytics_dashboard.png)
+![HR Analytics Dashboard](powerbi/hr_analytics_dashboard.png)
 
 **Top KPI Cards:**
 | KPI | Value |
@@ -180,9 +186,9 @@ The Power BI dashboard has two views:
 - **Attrition by Experience Level** — Senior employees have the highest attrition count (204K)
 
 ### Table View
-![HR Analytics Table](dashboard/hr_analytics_table.png)
+![HR Analytics Table](powerbi/hr_analytics_table.png)
 
-- Employee-level detail table with ID, Name, Department, Job Title, Country, City, Experience Level, and Status
+- Employee-level detail table with ID, Name, Department, Job Title, Country, City, Experience Level, Status, Hire Date, Salary and Attrition
 - Filterable by Department, Work Mode, Country, Experience Level, and Salary Band
 
 ---
@@ -237,5 +243,3 @@ Data Analyst
 ---
 
 *Built with Python · SQL Server · Power BI*
-# hr-analytics
-End-to-end HR Analytics project using SQL, Python, and Power BI.  Includes data cleaning, analysis, KPI tracking, and interactive dashboard for attrition insights.
