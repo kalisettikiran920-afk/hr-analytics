@@ -83,6 +83,8 @@ This project addresses the following business questions:
 
 ## 🔄 Project Workflow
 
+![HR Analytics Project Flow](dashboard/hr_analytics_dashboard.png)
+
 ### Step 1 — Data Ingestion (Python)
 - Loaded the raw CSV dataset using `pandas`
 - Inspected data types, missing values, and duplicates
