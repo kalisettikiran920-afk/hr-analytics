@@ -240,6 +240,18 @@ The insights generated can directly support HR leadership and business stakehold
 **Kiran Kalisetti**  
 Data Analyst  
 
+<a href="https://www.linkedin.com/in/kiran-kalisetti" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:kalisettikiran920@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/kalisettikiran920-afk" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 ---
 
 *Built with Python · SQL Server · Power BI*
