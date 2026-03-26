@@ -127,7 +127,13 @@ Ran 10 structured SQL scripts covering:
 ```
 hr-analytics/
 │
+├── 📂 draw.io/
+│   ├── Planned_data_model.drawio         # Data model / schema diagram
+│   ├── hr_analytics_project_flow.drawio  # End-to-end project workflow diagram
+│ 
 ├── 📂 images/
+│   └──📂 proof-of-work/
+│       └── 2 images
 │   ├── hr_analytics_data_model.jpg       # Data Model Image
 │   ├── hr_analytics_project_flow.jpg     # Project Flow Image
 │
@@ -152,10 +158,6 @@ hr-analytics/
 │   ├── 08_performance_analysis.sql       # Performance by dept, role, experience
 │   ├── 09_data_segmentation.sql          # Cross-dimensional segment analysis
 │   └── 10_part_to_whole_analysis.sql     # Percentage share by category
-│
-├── 📂 design/
-│   ├── hr_analytics_project_flow.drawio  # End-to-end project workflow diagram
-│   └── Planned_data_model.drawio        # Data model / schema diagram
 │
 └── README.md                             # Project documentation (this file)
 ```
