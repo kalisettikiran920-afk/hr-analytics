@@ -246,8 +246,8 @@ Data Analyst
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:kalisettikiran920@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:kalisettikiran920@gmail.com?subject=Regarding%20your%20HR%20Analytics%20Project">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/kalisettikiran920-afk" target="_blank">
